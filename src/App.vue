@@ -21,6 +21,8 @@ body {
   margin: 0;
   padding: 0;
   scroll-behavior: smooth;
+  overflow-y: hidden;
+  overflow-x: hidden;
 }
 
 #app {

@@ -13,7 +13,7 @@
              Hola, me llamo Guiseppe Epifani, tengo 22 años y soy Analista programador, egrese de la universidad Inacap el año 2020. Soy activo y autodidacta en el mundo del desarrollo de software, amante de la programación en general, me gustan los desafios y solucionar problemas, y sentir la satisfacción de automatizar procesos de una empresa que antes se realizaban de manera manual o bien de llevar a codigo las ideas de mis cliente y brindarles un servicio de calidad.
             </p>
             <p class="text-align mt-4 mr-3">
-              Tenego solidas bases en el lenguaje de programación JavaScript, actualmente utilizo en el Front-end el Framework Vue.js pero tambien conozco React.js, ademas para el diseño utilizo css puro, BostrapVue o Vuetify dependiendo de cual se adapte mejor a la necesidad del cliente. <br> 
+              Tenego solidas bases en el lenguaje de programación JavaScript, actualmente utilizo en el Front-end el Framework Vue.js pero tambien conozco la libreria React.js, ademas para el diseño utilizo css puro, BostrapVue o Vuetify dependiendo de cual se adapte mejor a la necesidad del cliente. <br> 
               En el Backend tengo experiencia haciendo API REST con Node.js y Laravel (Lumen) o bien trabajando con Laravel mix. <br><br>
               Poseo comocimientos en Vuex, Axios, Redux, JWT, Passport.
             </p>

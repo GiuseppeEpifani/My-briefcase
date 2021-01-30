@@ -12,7 +12,7 @@
         </b-col>
         <b-col cols="12">
           <div class="float-left ml-5 mt-1">
-            <TextChangeComponent font_size="11px" id="word" />
+            <TextChangeComponent font_size="14px" id="word" />
           </div>
         </b-col>
         <b-col cols="12" style="font-size:12px !important">

@@ -1,7 +1,7 @@
 <template>
   <div>
     <b-container class="h3">
-      <i class="far fa-envelope mr-3"></i>
+      <p class="container-icon"><i class="far fa-envelope mr-3"></i></p>
       <span class="my-contact mb-2">Giuseppe.epifanivillalobos@gmail.com</span>
     </b-container>
   </div>
@@ -29,12 +29,9 @@ export default {
   }
 }
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 600px) {
   .my-contact {
     font-size: 16px !important;
-  }
-  .fa-envelope {
-      margin: auto !important;
   }
 }
 </style>
