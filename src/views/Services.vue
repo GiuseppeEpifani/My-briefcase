@@ -24,7 +24,7 @@
               <b-col cols="12" sm="12" md="12" lg="9" xl="9">
                 <p class="text-align h2 mr-3">Front-<span>end</span></p>
                 <p class="text-align mr-3">
-                Mis servicios de Front-End consisten en páginas SPA interactivas de presentación y contacto, además de aplicaciones web a medida, todas estas programadas bajo el framework de Vue.js lo que las hace intuitivas para el usuario, para el diseño utilizo CSS puro con bootstrapVue o vuetify dependiendo de cual se ajuste mejor a la necesidad del cliente.                </p>
+                Mis servicios de Front-End consisten en páginas SPA interactivas de presentación y contacto, además de aplicaciones web a medida, todas estas, programadas bajo el framework de Vue.js lo que las hace intuitivas para el usuario, para el diseño utilizo CSS puro ademas de bootstrapVue o vuetify, dependiendo de cual se ajuste mejor a la necesidad del cliente.                </p>
               </b-col>
             </b-row>
             <hr />
@@ -62,11 +62,7 @@
               >
                 <p class="text-align h2">Back-<span>end</span></p>
                 <p class="text-align">
-                  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nemo
-                  inventore facere, ullam eligendi autem quaerat sit officia
-                  ipsam. Ad voluptatibus dolor velit, fugiat excepturi corrupti
-                  accusamusAd voluptatibus dolor velit, fugiat excepturi
-                  corrupti accusamus repudiandae
+                  Mis servicios de Back-End consisten en la creación de aplicaciones a medida API REST con Node.js o Laravel con su respectiva documentación. Las bases de datos que utilizo son: Mysql, PostgreSQL, MongoDB.
                 </p>
               </b-col>
             </b-row>
