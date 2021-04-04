@@ -105,7 +105,6 @@ export default {
 
 <style scoped>
 hr {
-  height: 8px !important;
   background-image: linear-gradient(10deg, #cbe6f5, transparent) !important;
   border: 0 !important;
   height: 1px !important;
